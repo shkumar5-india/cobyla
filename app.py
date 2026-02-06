@@ -27,7 +27,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.markdown('<div class="main-header">🧪 COBYLA QUANTUM MOLECULAR SOLVER</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header">COBYLA QUANTUM MOLECULAR SOLVER</div>', unsafe_allow_html=True)
 
 def execute_vqe_engine(mol_type):
     # Setup parameters based on molecule selection
